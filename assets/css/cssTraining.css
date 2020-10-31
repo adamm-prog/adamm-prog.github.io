@@ -5,14 +5,14 @@ body{
 #firstDiv {
     width: 100%;
     height: 300px;
-    background-image: url('../images/camping.jpg');
+    background-image: url('../images/Camping.jpg');
     background-size: contain;
 }
 
 #secondDiv {
     width: 100%;
     height: 300px;
-    background-image: url('../images/huskies.jpeg');
+    background-image: url('../images/huskies.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -26,13 +26,13 @@ body{
 #thirdDiv {
     width: 100%;
     height: 300px;
-    background: url('../images/macarons.jpeg') no-repeat center / cover;
+    background: url('../images/macaroons.jpg') no-repeat center / cover;
 }
 
 #fourthDiv {
     width: 100%;
     height: 300px;
-    background-image: url('../images/wave.jpg');
+    background-image: url('../images/waves.jpg');
 }
 
 #fourthDiv h1 {

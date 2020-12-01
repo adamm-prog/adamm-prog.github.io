@@ -70,7 +70,7 @@ body{
 }
 
 .resume .resume_left .resume_item:last-child,
-.resume .resume_right .resume_item:{
+.resume .resume_right .resume_item{
     border-bottom: 0px;
 }
 
